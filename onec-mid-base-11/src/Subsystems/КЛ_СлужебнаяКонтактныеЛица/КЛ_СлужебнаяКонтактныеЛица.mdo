@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b4066037-103b-4278-bbc5-fc75a91133e7">
+  <name>КЛ_СлужебнаяКонтактныеЛица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контактные лица</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <explanation>
+    <key>ru</key>
+    <value>Содержит объекты, добавленные или измененные с целью реализации добавления Контактныл лиц в справочник Контрагенты и документы по поставщикам/покупателям.</value>
+  </explanation>
+  <content>Catalog.КЛ_Должности</content>
+  <content>Catalog.КЛ_КонтактныеЛица</content>
+  <content>Role.КЛ_ИзменениеДобавлениеКонтактныхЛиц</content>
+  <content>Document.ЗаказПокупателя</content>
+  <content>Document.ОплатаОтПокупателя</content>
+  <content>Document.ОплатаПоставщику</content>
+  <content>Document.ПоступлениеТоваровУслуг</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>CommonModule.КЛ_УправлениеДинамическимиПолями</content>
+  <content>Catalog.Контрагенты</content>
+</mdclass:Subsystem>
