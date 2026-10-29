@@ -20,4 +20,5 @@
   <content>Document.РеализацияТоваровУслуг</content>
   <content>CommonModule.КЛ_УправлениеДинамическимиПолями</content>
   <content>Catalog.Контрагенты</content>
+  <content>Enum.КЛ_СтатусыЗаказов</content>
 </mdclass:Subsystem>

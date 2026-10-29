@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="85f8230d-bdfa-4db6-8fdf-3bf91c3b001f">
+  <name>СК_СлужебнаяУчетСкидки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учет скидки</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <explanation>
+    <key>ru</key>
+    <value>Содержит объекты, добавленные или измененные с целью реализации механизама учета скидки в документе Заказ покупателя</value>
+  </explanation>
+  <content>Document.ЗаказПокупателя</content>
+  <content>CommonModule.КЛ_УправлениеДинамическимиПолями</content>
+</mdclass:Subsystem>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7df05ba0-4625-4c58-a29e-97cd7dfd2634">
+  <name>ДС_СлужебнаяДоставка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Д с служебная доставка</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>Catalog.ДС_ДоставкаПрисоединенныеФайлы</content>
+  <content>Document.ДС_Доставка</content>
+  <content>Role.ДС_ДобавлениеИзменениеДоставки</content>
+  <content>Role.ДС_ЧтениеДоставки</content>
+</mdclass:Subsystem>
